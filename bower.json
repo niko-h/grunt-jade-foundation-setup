@@ -1,0 +1,22 @@
+{
+  "name": "exozet",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Niko <cvs@nikolaushoefer.de>"
+  ],
+  "license": "none",
+  "homepage": "https://github.com/niko-h/task",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}
